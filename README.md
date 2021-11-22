@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+### 第一问
 
-You can use the [editor on GitHub](https://github.com/666-shit/666-shit.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+#### 模型的选择、构建与求节
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+使用基于感知器算法的二分类算法，具体公式，参数设置，
 
-### Markdown
+#### 模型的检验与评估
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+代入一个城市进行验证（这里选择西安）
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+### 第二问
 
-1. Numbered
-2. List
+#### 经济社会效益（已完成）
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/666-shit/666-shit.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### 第三问
 
-### Support or Contact
+#### 给市长的信
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+1.   地铁建设成本分析（扩建成本（在原来线路基础之上，只考虑挖掘成本和两个站点成本）或新建成本（地下勘探成本，挖掘成本，意外事故造成的损失，原有地铁站点扩建成本，环境污染等），新铁轨成本，增加或减少了地铁站工作人员，新列车成本（与新开线路的相同成本可忽略，但是得说服市长修地铁线）设施设备的维护费用）
+2.   地铁地下行驶速度（$设置终端站后$，地铁主要花费时间从停等时间变为地铁行驶时间和调度时间，需要考虑到地铁直线最快速度，转弯最快速度等）
+3.   车票设置问题，增加票价，但是要小于普通地铁到此站的价格（例如韦曲南到北客站6.3元，直达站车票价格需要小于6.3元；也可以考虑提高其他站点的票价），多长时间可以回本；乘坐直达站到达的除终端站外的附近站若干个点的收费情况按照直达站适量增加，但是仍少于普通站（为了提高客流量，防止废线）
+4.   
+
+#### 调度表
+
+关于调度表，考虑人类积累速度与积累量，（与非直达线的换乘时间），直达地铁行驶时间与调度时间，“Y”型地铁线路的调度，意外状况发生与发现所间隔的时间（又涉及到通讯问题……），与机场、高铁站、学校向邻近的地铁站需要考虑增加发车班次以及调整发车间隔，与人流量密集的时间段相吻合，参考其他城市直达地铁的调度。
+
